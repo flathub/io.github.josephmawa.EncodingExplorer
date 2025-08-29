@@ -30,8 +30,8 @@
         {
           "type": "git",
           "url": "https://github.com/josephmawa/EncodingExplorer",
-          "tag": "v0.1.1",
-          "commit": "3dcd02c14ec74a9fa1ce7a2dddc75d0d146f94ee"
+          "tag": "v0.1.2",
+          "commit": "33d4c891756c5f5357819651e09c7f709ac5aeba"
         }
       ]
     }
