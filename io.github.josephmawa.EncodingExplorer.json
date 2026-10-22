@@ -1,7 +1,7 @@
 {
   "id": "io.github.josephmawa.EncodingExplorer",
   "runtime": "org.gnome.Platform",
-  "runtime-version": "50",
+  "runtime-version": "51",
   "sdk": "org.gnome.Sdk",
   "command": "io.github.josephmawa.EncodingExplorer",
   "finish-args": [
@@ -19,8 +19,8 @@
         {
           "type": "git",
           "url": "https://github.com/josephmawa/EncodingExplorer",
-          "tag": "v0.1.4",
-          "commit": "1b7fba8fb332485002c2ea31332844ba99dfd880"
+          "tag": "v0.1.5",
+          "commit": "083750ca0c43562917943cff19fca698c452cc0b"
         }
       ]
     }
